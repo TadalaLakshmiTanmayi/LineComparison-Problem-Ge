@@ -4,5 +4,4 @@ public class CalculateLineLength {
         System.out.println("Length of Line: " + length);
 
     }
-
 }
